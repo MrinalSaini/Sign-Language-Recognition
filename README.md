@@ -1,4 +1,4 @@
-# Sign-Language-Recognition
+# Sign Language Recognition
 Training a CNN to identify Sign Language Gestures. Performing gesture recognition using live video feed through the laptop web-camera.
 
 ### Resources:
