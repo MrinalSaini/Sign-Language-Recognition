@@ -1,11 +1,11 @@
 # Sign-Language-Recognition
 Training a CNN to identify Sign Language Gestures. Performing gesture recognition using live video feed through the laptop web-camera.
 
-Resources:
+### Resources:
 1. [Images Dataset - Kaggle](https://www.kaggle.com/ahmedkhanak1995/sign-language-gesture-images-dataset)
 2. [Document - Hand Recognition and Gesture Control Using a Laptop Web-camera](https://web.stanford.edu/class/cs231a/prev_projects_2016/CS231A_Project_Final.pdf)
 
-### Content
+### Content:
 1. neural-network-training-and-evaluation.ipynb - trains the CNN on the Images Dataset
 2. video-feed.ipynb - performs the recgnition using video feed through laptop web-camera.
 3. gesture-images.jpg - shows the hand gestures for different alphabets and numbers.
