@@ -1,5 +1,5 @@
 # Sign-Language-Recognition
-Identifying Sign Language Gestures using live video feed through the laptop web-camera.
+Training a CNN to identify Sign Language Gestures. Performing gesture recognition using live video feed through the laptop web-camera.
 
 Resources:
 1. [Images Dataset - Kaggle](https://www.kaggle.com/ahmedkhanak1995/sign-language-gesture-images-dataset)
