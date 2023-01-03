@@ -12,6 +12,3 @@ Training a CNN to identify Sign Language Gestures. Performing gesture recognitio
 4. gesture-images-preprocessed.jpg - shows how the images look after backgroung subtraction.
 5. sign-language-recognition.h5 - contains the trained CNN.
 6. mapping.json - maps the characters with their respective numbers.
-
-### Results:
-Got correct prediction 9 out of 10 times when performing recognition using video feed.
