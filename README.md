@@ -6,7 +6,7 @@ Training a CNN to identify Sign Language Gestures. Performing gesture recognitio
 2. [Document - Hand Recognition and Gesture Control Using a Laptop Web-camera](https://web.stanford.edu/class/cs231a/prev_projects_2016/CS231A_Project_Final.pdf)
 
 ### Contents:
-1. neural-network-training-and-evaluation.ipynb - trains the CNN on the images dataset from Kaggle.
+1. neural-network-training-and-evaluation.ipynb - trains the DenseNet201 CNN on the images dataset from Kaggle.
 2. background-subtraction.ipynb - implements i) kernel density estimation, and ii) convex hull method for background subtraction, and tests which methods works best.
 3. video-feed.ipynb - performs the recognition using video feed through laptop web-camera.
 4. gesture-images.jpg - shows the hand gestures for different alphabets and numbers.
