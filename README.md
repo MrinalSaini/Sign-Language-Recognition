@@ -15,7 +15,7 @@ Training a CNN to identify Sign Language Gestures. Performing gesture recognitio
 7. mapping.json - maps the characters with their respective numbers.
 
 ### Result:
-1. Kernel Density Estimation worked better than Convex HUll method for background subtraction.
+1. Kernel Density Estimation worked better than Convex Hull method for background subtraction.
 2. Convex Hull method is highly sensitive to the lighting conditions in the room, and performs poorly if the lighting is not favourable.
 3. Kernel Density estimation can work very well in different lighting conditions, but it very slow compared to Convex Hull.
 4. Since, we want to use webcam as input, we use Convex Hull method for final implentation and make sure the lighting is favourable.
